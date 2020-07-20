@@ -60,5 +60,5 @@ function Materiales ()
     Cal = superficie * CAL_X_METRO;
     
     alert(`Para un contra piso de una superficie de ${superficie} m2 se debe comprar ${Cemento} bolsas de cemento y ${Cal} bolsas de Cal.`);
-//hola 2
+//hola 3
 }
